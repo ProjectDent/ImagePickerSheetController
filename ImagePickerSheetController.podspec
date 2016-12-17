@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ImagePickerSheetController"
-  s.version      = "0.9.3"
+  s.version      = "0.9.4"
   s.summary      = "ImagePickerSheetController is like the custom photo action sheet found in the iOS 8 and 9 version of iMessage"
 
   s.description  = <<-DESC
@@ -69,7 +69,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/lbrndnr/ImagePickerSheetController.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/ProjectDent/ImagePickerSheetController.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
